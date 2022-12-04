@@ -1,0 +1,19 @@
+.kuizu__logout-button {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #EF767A;
+    border-radius: 100px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .4);
+    transition: .3s ease-in-out all;
+}
+
+.kuizu__logout-button:hover {
+    transform: scale(1.1);
+}
+
+.kuizu__logout-button-img {
+    height: 60%;
+}

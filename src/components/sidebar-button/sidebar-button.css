@@ -1,0 +1,11 @@
+.kuizu__sidebar-button {
+    font-size: 25px;
+    font-family: 'Poppins';
+    text-decoration: none;
+    color: #404462;
+    transition: .3s ease-in-out all;
+}
+
+.kuizu__sidebar-button:hover {
+    transform: scale(1.1);
+}

@@ -1,0 +1,29 @@
+#kuizu__user-sidebar {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    row-gap: 20px;
+}
+
+.kuizu__user-sidebar-image-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 50% 50%;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+}
+
+.kuizu__user-sidebar-image-container-img {
+    height: 100%;
+}
+
+.kuizu__user-sidebar-name {
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    text-align: center;
+    color: #404462;
+}
