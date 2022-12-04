@@ -1,0 +1,22 @@
+#kuizu__left-sidebar {
+    width: 250px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: column;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .2);
+}
+
+.kuizu__left-sidebar-logo {
+    width: 80%;
+}
+
+.kuizu__left-sidebar-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    row-gap: 20px;
+}
